@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Seunghoon Hwang
+Hello I'm Seunghoon Hwang. Now, I'm Postdoc Position at [Neurorobotics Lab](https://sites.google.com/view/asuneurorobotics/). I have 6+ years Research Experience of Rehabilitation Exoskeleton Robot System. My research is Exoskeleton Robot System Motion Generation Algorithm with Machine Learning Method, Robot Control, Human Robot Interaction. I am skilled with valuable insights into Robotics, Exoskeleton Robot control, and Exoskeleton Robot hardware and software with Bio-mechanics and Gait Analysis.
 
-You can use the [editor on GitHub](https://github.com/seunghoonhwang/seunghoonhwang.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Research Interests
+Exoskeleton Robot, Robotics, Rehabilitation Robot
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+                          [Email](shwang45@asu.edu)
 
 ### Markdown
 
