@@ -1,10 +1,10 @@
 ## Seunghoon Hwang
-Hello I'm Seunghoon Hwang. Now, I'm Postdoc Position at [Neurorobotics Lab](https://sites.google.com/view/asuneurorobotics/). I have 6+ years Research Experience of Rehabilitation Exoskeleton Robot System. My research is Exoskeleton Robot System Motion Generation Algorithm with Machine Learning Method, Robot Control, Human Robot Interaction. I am skilled with valuable insights into Robotics, Exoskeleton Robot control, and Exoskeleton Robot hardware and software with Bio-mechanics and Gait Analysis.
+Hello I'm Seunghoon Hwang. Now, I'm Postdoc Position at [Neurorobotics Lab](https://sites.google.com/view/asuneurorobotics/). I have 6+ years Research Experience of Rehabilitation Exoskeleton Robot System. I interest in how to make proper interaction with human and robot. I am skilled with valuable insights into Robotics, Exoskeleton Robot control, and Exoskeleton Robot hardware and software with Bio-mechanics and Gait Analysis.
 
 ## Research Interests
-Exoskeleton Robot, Robotics, Rehabilitation Robot
+Human Robot Interaction, Exoskeleton Robot, Rehabilitation Robot
 
-                          [Email](shwang45@asu.edu)
+[Email](shwang45@asu.edu)/[CV]()/[Google Scholar](https://scholar.google.com/citations?user=TU6C-S8AAAAJ&hl=en)
 
 ### Markdown
 
