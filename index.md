@@ -1,4 +1,5 @@
 ## Seunghoon Hwang
+![KakaoTalk_20220101_182859787](https://user-images.githubusercontent.com/96956625/147863743-819d31a2-bb97-4f97-90b4-bd8df4818fdb.jpg){: width="30" height="30"}
 Hello I'm Seunghoon Hwang. Now, I'm Postdoc Position at [Neurorobotics Lab](https://sites.google.com/view/asuneurorobotics/) at Arizona State University(PI:Hyunglae Lee). I have 6+ years Research Experience of Rehabilitation Exoskeleton Robot System. I interest in how to make proper interaction with human and robot. I am skilled with valuable insights into Robotics, Exoskeleton Robot control, and Exoskeleton Robot hardware and software with Bio-mechanics and Gait Analysis.
 
 ## Research Interests
