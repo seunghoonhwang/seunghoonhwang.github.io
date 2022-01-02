@@ -23,5 +23,5 @@ Human Robot Interaction, Exoskeleton Robot, Rehabilitation Robot
 [R2]
 ![R5](https://user-images.githubusercontent.com/96956625/147862885-e27ba9bf-b86c-42aa-8256-2e7e47f19d67.PNG)
 
-[R6]
+[R1]
 ![R6](https://user-images.githubusercontent.com/96956625/147862887-f9a884cd-cc90-464a-8925-3259454065f3.PNG)
