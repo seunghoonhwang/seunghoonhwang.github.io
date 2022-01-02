@@ -8,6 +8,22 @@ Human Robot Interaction, Exoskeleton Robot, Rehabilitation Robot
 
 ### Research Abstract
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[R6]
+<img src="seunghoonhwang.github.io/R1.PNG">
+
+[R5]
+<img src="seunghoonhwang.github.io/R2.PNG">
+
+[R4]
+<img src="seunghoonhwang.github.io/R3.PNG">
+
+[R3]
+<img src="seunghoonhwang.github.io/R4.PNG">
+
+[R2]
+<img src="seunghoonhwang.github.io/R5.PNG">
+
+[R6]
+<img src="seunghoonhwang.github.io/R6.PNG">
 
 
