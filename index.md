@@ -9,7 +9,7 @@ Human Robot Interaction, Exoskeleton Robot, Rehabilitation Robot
 ### Research Abstract
 
 [R6]
-<img src="seunghoonhwang.github.io/R1.PNG">
+![R1](https://user-images.githubusercontent.com/96956625/147862869-d9e8b2d2-287d-4b26-ad8b-74dfba8bf4f1.PNG)
 
 [R5]
 <img src="seunghoonhwang.github.io/R2.PNG">
